@@ -1,2 +1,0 @@
-* * * * * export DISPLAY=:0 && export PATH=$PATH:/usr/local/bin && /usr/bin/python3 /home/kali/Environments/school/meets/meet.py -fc true -c "" >> /home/kali/Environments/school/meets/meet.log
-
