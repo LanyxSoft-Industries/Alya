@@ -56,7 +56,7 @@ arg_parser.add_argument("-tk", "--tk-title", type=str, help="Specifies a custom 
 arguments = arg_parser.parse_args()
 
 if arguments.code is not None:
-	CLASS_CODE = arguments.code
+	CLASS_CODE = arguments.code.replace("https://meet.google.com/", "")
 if arguments.email is not None:
 	EMAIL_ADDRESS = arguments.email
 if arguments.username is not None:
