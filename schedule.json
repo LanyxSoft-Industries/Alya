@@ -4,6 +4,7 @@
             "class": "Class That Doesn't Change",
             "code": "meeting code",
             "datetime": "2020-12-11 12:00:00",
+            "type": "daily, weelky, non-repetitive",
             "automation_finished": false
         }
     ],
