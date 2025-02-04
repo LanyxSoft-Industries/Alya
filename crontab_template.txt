@@ -1,1 +1,0 @@
-* * * * * export DISPLAY=:0 && export PATH=$PATH:/usr/local/bin && sudo /usr/bin/python3 /usr/share/lanyxsoft/Alya/meets/meet.py -fc true -c "" >> /usr/share/lanyxsoft/Alya/meets/meet.log

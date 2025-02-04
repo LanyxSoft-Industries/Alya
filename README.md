@@ -1,2 +1,3 @@
-# Alya_Google-Meets-Automation
-Automates joining Google Meets using Python3 and firefox-esr
+# Alya - Infinite Campus Portal Attendance Automation (Project Name A#ICPAA2020)
+
+Automates taking daily attendance on Infinite Campus Portal.
